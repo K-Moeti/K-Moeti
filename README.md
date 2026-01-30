@@ -1,57 +1,67 @@
 <h1 align="center">Hi, I'm Khotso Moeti 👋</h1>
 
 <p align="center">
-  <em>Computer Science Student | Future Google Engineer | Full Stack Developer</em>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Angular+%7C+React+Native+Developer;Full+Stack+Developer;Future+Google+Engineer" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=K-Moeti&style=flat-square&color=blue" />
 </p>
 
 ---
 
 ### 💡 About Me
-- 🎓 Computer Science student at Tshwane University of Technology  
-- 💻 Passionate about building scalable web & mobile applications  
-- 🌍 From South Africa, dreaming big to make a global impact  
-- 🚀 Currently working on: **VigilentAids** (Angular, React Native, Node.js, MySQL, OpenStreetMap)
+- 🎓 Computer Science student at **Tshwane University of Technology**
+- 💻 I build **scalable web & mobile applications**
+- 🌍 Based in **South Africa**
+- 🚀 Currently working on **VigilentAids**  
+  *(Angular, React Native, Node.js, MySQL, OpenStreetMap)*
 
 ---
 
-### 🛠️ Skills
-<p>
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" />
-
-  <br/>
-
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-
-  <br/>
-
-  <!-- Mobile & Backend -->
-  <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+### 🧠 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=angular,react,nodejs,mysql,java,js,python,html,css,kotlin&theme=dark" />
 </p>
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=K-Moeti&show_icons=true&theme=radical" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K-Moeti&layout=compact&theme=radical" height="165" />
 </p>
 
----
-
-### 🌍 Let's Connect
-- 💼 <a href="https://www.linkedin.com/in/khotso-moeti-mk0714961002?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">LinkedIn</a>  
-- ✉️ Email: <code>mkmoetikhotso@gmail.com</code>  
-<!-- 🌐 Portfolio: Coming soon -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=K-Moeti&theme=radical" />
+</p>
 
 ---
 
-> _“Success doesn’t come from what you do occasionally. It comes from what you do consistently.”_
+### 🏆 GitHub Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=K-Moeti&theme=radical&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+### 🌍 Let’s Connect
+<p align="center">
+  <a href="https://www.linkedin.com/in/khotso-moeti-mk0714961002">
+    <img src="https://img.shields.io/badge/LinkedIn-Khotso%20Moeti-blue?style=flat&logo=linkedin" />
+  </a>
+  <a href="mailto:mkmoetikhotso@gmail.com">
+    <img src="https://img.shields.io/badge/Email-mkmoetikhotso%40gmail.com-red?style=flat&logo=gmail" />
+  </a>
+</p>
+
+---
+
+### 🐍 Contribution Snake
+<p align="center">
+  <img src="https://github.com/K-Moeti/K-Moeti/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+> _“Discipline beats motivation. Consistency builds greatness.”_
