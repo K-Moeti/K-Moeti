@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Khotso Moeti 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Angular+%7C+React+Native+Developer;Full+Stack+Developer;Future+Google+Engineer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=720&lines=Computer+Science+Student;Angular+%7C+React+Native+Developer;Full+Stack+Developer;Future+Google+Engineer" />
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 ### 💡 About Me
 - 🎓 Computer Science student at **Tshwane University of Technology**
-- 💻 I build **scalable web & mobile applications**
+- 💻 Building **scalable web & mobile applications**
 - 🌍 Based in **South Africa**
 - 🚀 Currently working on **VigilentAids**  
   *(Angular, React Native, Node.js, MySQL, OpenStreetMap)*
@@ -26,21 +26,18 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Statistics (Graphical)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=K-Moeti&show_icons=true&theme=radical" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K-Moeti&layout=compact&theme=radical" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=K-Moeti&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=K-Moeti&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=K-Moeti&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=K-Moeti&theme=github_dark" />
 </p>
 
----
-
-### 🏆 GitHub Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=K-Moeti&theme=radical&no-frame=true&row=1&column=6" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=K-Moeti&theme=github-dark" />
 </p>
 
 ---
@@ -59,7 +56,8 @@
 
 ### 🐍 Contribution Snake
 <p align="center">
-  <img src="https://github.com/K-Moeti/K-Moeti/blob/output/github-contribution-grid-snake.svg" />
+  <!-- This will show ONLY after the GitHub Action runs -->
+  <img src="https://raw.githubusercontent.com/K-Moeti/K-Moeti/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
