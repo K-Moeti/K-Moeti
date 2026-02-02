@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Khotso Moeti 👋</h1>
+<h1 align="center">Hi, I'm Khotso Moeti </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=720&lines=Computer+Science+Student;Angular+%7C+React+Native+Developer;Full+Stack+Developer;Future+Google+Engineer" />
