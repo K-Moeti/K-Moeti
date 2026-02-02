@@ -10,7 +10,7 @@
 
 ---
 
-### 💡 About Me
+### About Me
 - 🎓 Computer Science student at **Tshwane University of Technology**
 - 💻 Building **scalable web & mobile applications**
 - 🌍 Based in **South Africa**
@@ -19,14 +19,14 @@
 
 ---
 
-### 🧠 Tech Stack
+### Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=angular,react,nodejs,mysql,java,js,python,html,css,kotlin&theme=dark" />
 </p>
 
 ---
 
-### 📊 GitHub Statistics (Graphical)
+### GitHub Statistics (Graphical)
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=K-Moeti&theme=github_dark" />
 </p>
@@ -42,7 +42,7 @@
 
 ---
 
-### 🌍 Let’s Connect
+### Let’s Connect
 <p align="center">
   <a href="https://www.linkedin.com/in/khotso-moeti-mk0714961002">
     <img src="https://img.shields.io/badge/LinkedIn-Khotso%20Moeti-blue?style=flat&logo=linkedin" />
@@ -54,7 +54,7 @@
 
 ---
 
-### 🐍 Contribution Snake
+### Contribution Snake
 <p align="center">
   <!-- This will show ONLY after the GitHub Action runs -->
   <img src="https://raw.githubusercontent.com/K-Moeti/K-Moeti/output/github-contribution-grid-snake-dark.svg" />
